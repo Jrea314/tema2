@@ -1,0 +1,17 @@
+{
+  "name": "tienda",
+  "version": "1.0.0",
+  "description": "api con productos",
+  "main": "servidor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "josue rea",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "body-parse": "^0.1.0",
+    "body-parser": "^1.19.2",
+    "express": "^4.17.3",
+    "mongoose": "^6.2.4"
+  }
+}
